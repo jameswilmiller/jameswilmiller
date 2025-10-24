@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm James Miller</h1>
 
 ## Who Am I?
-I'm a third year Computer Science student at the University of Queensland specializing in **full stack software development** and passionate about **Machine Learning**, clean code, and solving real-world problems through technology.
+I'm a third year Computer Science student at the University of Queensland specializing in **full stack software development** and passionate about **Machine Learning** and solving real-world problems through technology.
 
 ## Currently Working On:
 - Learning to build and evaluate machine learning models using scikit-learn and PyTorch, with a focus on training, tuning, and measuring performance.
