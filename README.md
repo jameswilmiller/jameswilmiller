@@ -3,9 +3,6 @@
 ## Who Am I?
 I'm a third year Computer Science student at the University of Queensland
 
-## Currently Working On:
-Currently building a website to connect tutors and students with React, Spring Boot and PostgreSQL
-
 ## Projects
 ### Tutorlink
 A full stack web application to connect students and tutors.
