@@ -6,8 +6,13 @@ I'm a third year Computer Science student at the University of Queensland
 ## Currently Working On:
 Currently building a website to connect tutors and students with React, Spring Boot and PostgreSQL
 
-## current interests
-- learning how to create developer tools / packages
-- learning statistical modeling and data analysis using machine learning
-- learning docker and other cloud technologies to build, scale and deploy applications 
+## Projects
+### Tutorlink
+A full stack web application to connect students and tutors.
+Built with **React, Spring Boot and PostgreSQL**
+
+#### Currently working on
+- Building the front end using react
+- Integrating OAuth 2.0 for user authentication via third-party providers.
+- Implementing JUnit test suites to improve backend reliability
   
