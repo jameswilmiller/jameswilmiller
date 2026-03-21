@@ -9,7 +9,11 @@ A full stack web application to connect students and tutors.
 Built with **React, Spring Boot and PostgreSQL**
 
 #### Currently working on
-- Building the front end using react
+##### Front end:
+- integrating google maps on landing page showing suburbs of high rated tutors
+- integrating carousel of top rated tutor icons on landing page
+- design mock ups for browse tutor page + become a tutor page
+##### Back end:
 - Integrating OAuth 2.0 for user authentication via third-party providers.
 - Implementing JUnit test suites to improve backend reliability
   
