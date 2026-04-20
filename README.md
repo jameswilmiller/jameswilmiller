@@ -14,6 +14,7 @@ Built with **React, Spring Boot and PostgreSQL**
 - Building reusable UI components for tutor cards, search inputs, and navigation.
 - Improving responsive layout and spacing across key pages using Tailwind CSS.
 - Adding better loading, empty, and error states.
+- migrating from tailwindcss to custom design system
 
 ##### Back end:
 - Refactoring the backend into a feature-based structure to improve modularity and maintainability.
