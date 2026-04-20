@@ -10,12 +10,15 @@ Built with **React, Spring Boot and PostgreSQL**
 
 #### Currently working on
 ##### Front end:
-- integrating google maps on landing page showing suburbs of high rated tutors
-- integrating end-to-end auth i.e signup/verify + login/logout
-- design mock ups for browse tutor page + become a tutor page
+- Re-writing UI for pages to be more polished, intially all the pages were constructed minimally to prove functionality.
+- Building reusable UI components for tutor cards, search inputs, and navigation.
+- Improving responsive layout and spacing across key pages using Tailwind CSS.
+- Adding better loading, empty, and error states.
+
 ##### Back end:
-- Integrating OAuth 2.0 for user authentication via third-party providers.
+- Refactoring the backend into a feature-based structure to improve modularity and maintainability.
 - Implementing JUnit test suites to improve backend reliability
-- Implementing refresh jwt tokens to improve UX (currently refreshing logs user out as
-  it is good practice to store the access token in memory)
+- Improving tutor search by moving simple filtering into the database where appropriate.
+- Separating DTO mapping from business logic using dedicated mapper classes.
+- Implementing a global exception handling layer to standardise API error responses.
   
