@@ -20,7 +20,6 @@ Built with **React, Spring Boot and PostgreSQL**
 ##### Back end:
 - Implementing JUnit test suites to improve backend reliability
 - Improving tutor search by moving simple filtering into the database where appropriate.
-- Implementing a global exception handling layer to standardise API error responses.
 - Adding structured backend logging i.e login failures signup attempts etc + spring actuator health endpoint
 - pagination
 - file upload validation
