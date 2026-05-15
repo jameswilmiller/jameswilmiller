@@ -15,7 +15,7 @@ Built with **React, Spring Boot and PostgreSQL**
 - Improving responsive layout and spacing across key pages.
 - Polishing the signup flow for tutors
 - implementing admin page where tutors are enabled after account creation
-- 
+  
 
 ##### Back end:
 - Implementing JUnit test suites to improve backend reliability
