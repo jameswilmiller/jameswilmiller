@@ -2,9 +2,9 @@
 <p align="center">full-stack engineer · CS graduate, University of Queensland</p>
 
 ## Who Am I?
-- Aspiring full stack software engineer
-- "The measure of intelligence is the ability to change." --Albert Einstein
-- When I'm not coding: [scuba diving, painting, jogging, reading].
+- Aspiring full stack software engineer, with an interest in traditional machine learning techniques.
+- My main goals are to improve my coding skills and build meaningful projects to demonstrate them.
+- When I'm not coding I can be found: [scuba diving, painting warhammer models, reading, jogging].
   
 ## Projects
 ### Tutorlink — [Live Demo](https://tutorlink.dev) · [Frontend](https://github.com/jameswilmiller/TutorLinkFrontEnd) · [Backend](https://github.com/jameswilmiller/TutorLinkBackEnd)
@@ -17,5 +17,6 @@ A full-stack tutoring marketplace connecting students with tutors
 - Global exception handling for consistent, safe API error responses
 - Rate limiting, file-upload validation, and async email delivery
 - Structured logging plus a Spring Actuator health endpoint for observability
-- JUnit test suites across the service layer 
+- JUnit test suites across the service layer
+  
   
