@@ -2,8 +2,8 @@
 <p align="center">full-stack engineer · CS graduate, University of Queensland</p>
 
 ## Who Am I?
-- Backend is where I'm most at home, but I'll do the whole stack.
-- Big on the boring stuff that makes software actually reliable (measure twice cut once).
+- Aspiring full stack software engineer
+- "The measure of intelligence is the ability to change." --Albert Einstein
 - When I'm not coding: [scuba diving, painting, jogging, reading].
   
 ## Projects
@@ -17,5 +17,5 @@ A full-stack tutoring marketplace connecting students with tutors
 - Global exception handling for consistent, safe API error responses
 - Rate limiting, file-upload validation, and async email delivery
 - Structured logging plus a Spring Actuator health endpoint for observability
-- JUnit test suites across the service layer
+- JUnit test suites across the service layer 
   
