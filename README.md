@@ -9,6 +9,7 @@
 ## Projects
 ### Tutorlink — [Live Demo](https://tutorlink.dev) · [Frontend](https://github.com/jameswilmiller/TutorLinkFrontEnd) · [Backend](https://github.com/jameswilmiller/TutorLinkBackEnd)
 A full-stack tutoring marketplace connecting students with tutors
+
 **Stack:** React · Spring Boot · PostgreSQL · AWS
 
 **Built:**
