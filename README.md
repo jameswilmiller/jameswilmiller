@@ -2,7 +2,7 @@
 <p align="center">full-stack engineer · CS graduate, University of Queensland</p>
 
 ## Who Am I?
-- Aspiring full stack software engineer, with an interest in traditional machine learning techniques.
+- Aspiring full stack software engineer, with an interest in traditional machine learning techniques, high performance computing and distributed systems.
 - My main goals are to improve my coding skills and build meaningful projects to demonstrate them.
 - When I'm not coding I can be found: [scuba diving, painting warhammer models, reading, jogging].
   
