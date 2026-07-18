@@ -20,4 +20,5 @@ A full-stack tutoring marketplace connecting students with tutors
 - Structured logging plus a Spring Actuator health endpoint for observability
 - JUnit test suites across the service layer
   
-  
+## Open Source  
+- [microsoft/vscode-pull-request-github #8840](https://github.com/microsoft/vscode-pull-request-github/pull/8840) — added a feature to easily compare commit SHAs in the commit tree, still awaiting review (first open source contribution!)
