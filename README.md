@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm James Miller</h1>
-<p align="center">full-stack engineer · CS graduate, University of Queensland</p>
+<p align="center">full-stack engineer · CS student, University of Queensland</p>
 
 ## Who Am I?
 - full stack software engineer, with an interest in traditional machine learning techniques and concurrency + distributed systems.
@@ -21,17 +21,17 @@ A full-stack tutoring marketplace connecting students with tutors
 - JUnit test suites across the service layer
 
 ### Bash Royale - [repo](https://github.com/bilooty/bash-royale)
-Led a team of five to the Best Game prize at UQCS-2026 Hackathon, building a real-time lane-battler (a clone of clash royale) in C# in 48 hours.
+Led a team of five to win the Best Game prize at UQCS-2026 Hackathon, building a multiplayer real-time lane-battler that renders in the terminal in under 48 hours.
 
 **Stack:** C# 
 
 **Built:**
-- Deterministic lockstep multiplayer on a fixed tick, using integer-only position and damage maths so two clients advance identical state with no authoritative server
-- Targeting system with separate aggro and attack ranges, air/ground layer rules, target persistence between ticks, and stable tie-breaking by unit ID
-- A* pathfinding over rectangular unit footprints rather than point positions, so large units path and collide correctly
-- Unit and spell behaviours composed from a small set of reusable behaviour types instead of hardcoding each card
-- Custom terminal renderer: full frame composed into a buffer and written in a single pass to avoid flicker, with non-blocking input polling so the simulation never stalls on a keypress
-- backend built with no rendering or I/O dependencies, so the whole game can be run headless in tests or migrated to a different frontend in future
+- Deterministic lockstep simulation on a fixed tick, integer-only maths, no authoritative server
+- Targeting with aggro/attack ranges, air-ground layer rules, and stable tie-breaking
+- A* pathfinding over rectangular unit footprints rather than point positions
+- Unit and spell behaviours composed from reusable behaviour types
+- Buffered terminal renderer with non-blocking input polling
+- Engine-free simulation core, runnable headless in tests
   
 ## Open Source  
 - [microsoft/vscode-pull-request-github #8840](https://github.com/microsoft/vscode-pull-request-github/pull/8840) — added a feature to easily compare commit SHAs in the commit tree, still awaiting review (first open source contribution!)
